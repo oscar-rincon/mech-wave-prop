@@ -1,3 +1,4 @@
-# mech-wave-prop
+# Mechanical Wave Propagation
 
-hola
+Modeling of mechanical wave propagation using FEM and PINNs.
+
