@@ -1,6 +1,6 @@
 # Mechanical Wave Propagation
 
-Modeling ofModeling mechanical wave propagation using FEM (FinModeling mechanical wave propagation using FEM (Finite Element Method) and PINNs (Physics-Informed Neural Networks)ite Element Method) and PINNs (Physics-Informed Neural Networks) mechanical wave propagation using FEM and PINNs.
+Modeling mechanical wave propagation using FEM (Finite Element Method) and PINNs (Physics-Informed Neural Networks) involves combining two powerful techniques from computational physics and machine learning to accurately simulate the behavior of waves in mechanical systems.
 
 # Structure
 
